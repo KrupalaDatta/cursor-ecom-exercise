@@ -1,0 +1,504 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "Premium noise-cancelling wireless headphones with 30-hour battery life",
+    "price": 199.99,
+    "category": "Electronics",
+    "stock": 45,
+    "image_url": "https://example.com/images/headphones.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch Pro",
+    "description": "Fitness tracking smartwatch with heart rate monitor and GPS",
+    "price": 299.99,
+    "category": "Electronics",
+    "stock": 32,
+    "image_url": "https://example.com/images/smartwatch.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Cotton T-Shirt",
+    "description": "100% organic cotton t-shirt, available in multiple colors",
+    "price": 24.99,
+    "category": "Clothing",
+    "stock": 120,
+    "image_url": "https://example.com/images/tshirt.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Leather Backpack",
+    "description": "Genuine leather backpack with laptop compartment",
+    "price": 149.99,
+    "category": "Accessories",
+    "stock": 28,
+    "image_url": "https://example.com/images/backpack.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Coffee Maker Deluxe",
+    "description": "Programmable coffee maker with thermal carafe",
+    "price": 89.99,
+    "category": "Home & Kitchen",
+    "stock": 56,
+    "image_url": "https://example.com/images/coffeemaker.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes with cushioned sole",
+    "price": 79.99,
+    "category": "Footwear",
+    "stock": 67,
+    "image_url": "https://example.com/images/runningshoes.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with long battery life",
+    "price": 29.99,
+    "category": "Electronics",
+    "stock": 89,
+    "image_url": "https://example.com/images/mouse.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Denim Jeans",
+    "description": "Classic fit denim jeans, multiple sizes available",
+    "price": 59.99,
+    "category": "Clothing",
+    "stock": 94,
+    "image_url": "https://example.com/images/jeans.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Sunglasses Aviator",
+    "description": "UV protection sunglasses with polarized lenses",
+    "price": 49.99,
+    "category": "Accessories",
+    "stock": 76,
+    "image_url": "https://example.com/images/sunglasses.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Yoga Mat Premium",
+    "description": "Non-slip yoga mat with carrying strap",
+    "price": 34.99,
+    "category": "Sports & Outdoors",
+    "stock": 103,
+    "image_url": "https://example.com/images/yogamat.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 11,
+    "name": "Laptop Stand",
+    "description": "Adjustable aluminum laptop stand for ergonomic workspace",
+    "price": 39.99,
+    "category": "Electronics",
+    "stock": 58,
+    "image_url": "https://example.com/images/laptopstand.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 12,
+    "name": "Winter Jacket",
+    "description": "Waterproof winter jacket with insulated lining",
+    "price": 129.99,
+    "category": "Clothing",
+    "stock": 42,
+    "image_url": "https://example.com/images/jacket.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 13,
+    "name": "Portable Charger",
+    "description": "10000mAh portable power bank with fast charging",
+    "price": 24.99,
+    "category": "Electronics",
+    "stock": 111,
+    "image_url": "https://example.com/images/charger.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 14,
+    "name": "Ceramic Dinner Set",
+    "description": "16-piece ceramic dinner set for 4 people",
+    "price": 69.99,
+    "category": "Home & Kitchen",
+    "stock": 35,
+    "image_url": "https://example.com/images/dinnerset.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 15,
+    "name": "Basketball",
+    "description": "Official size basketball with composite leather",
+    "price": 19.99,
+    "category": "Sports & Outdoors",
+    "stock": 88,
+    "image_url": "https://example.com/images/basketball.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 16,
+    "name": "Desk Lamp LED",
+    "description": "Adjustable LED desk lamp with touch control",
+    "price": 44.99,
+    "category": "Home & Kitchen",
+    "stock": 61,
+    "image_url": "https://example.com/images/desklamp.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 17,
+    "name": "Hoodie Sweatshirt",
+    "description": "Comfortable cotton blend hoodie with front pocket",
+    "price": 39.99,
+    "category": "Clothing",
+    "stock": 77,
+    "image_url": "https://example.com/images/hoodie.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 18,
+    "name": "Bluetooth Speaker",
+    "description": "Waterproof portable Bluetooth speaker with 360° sound",
+    "price": 79.99,
+    "category": "Electronics",
+    "stock": 53,
+    "image_url": "https://example.com/images/speaker.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 19,
+    "name": "Leather Wallet",
+    "description": "Genuine leather bifold wallet with RFID blocking",
+    "price": 34.99,
+    "category": "Accessories",
+    "stock": 96,
+    "image_url": "https://example.com/images/wallet.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 20,
+    "name": "Kitchen Knife Set",
+    "description": "8-piece stainless steel kitchen knife set with block",
+    "price": 119.99,
+    "category": "Home & Kitchen",
+    "stock": 29,
+    "image_url": "https://example.com/images/knifeset.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 21,
+    "name": "Tennis Racket",
+    "description": "Professional tennis racket with carbon fiber frame",
+    "price": 89.99,
+    "category": "Sports & Outdoors",
+    "stock": 44,
+    "image_url": "https://example.com/images/tennisracket.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 22,
+    "name": "USB-C Cable",
+    "description": "6ft braided USB-C charging cable",
+    "price": 12.99,
+    "category": "Electronics",
+    "stock": 152,
+    "image_url": "https://example.com/images/usbcable.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 23,
+    "name": "Dress Shirt",
+    "description": "Classic fit dress shirt, wrinkle-free fabric",
+    "price": 49.99,
+    "category": "Clothing",
+    "stock": 68,
+    "image_url": "https://example.com/images/dressshirt.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 24,
+    "name": "Travel Suitcase",
+    "description": "Hard-shell spinner suitcase with TSA lock",
+    "price": 179.99,
+    "category": "Accessories",
+    "stock": 37,
+    "image_url": "https://example.com/images/suitcase.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 25,
+    "name": "Air Fryer",
+    "description": "5.5 quart digital air fryer with multiple cooking modes",
+    "price": 99.99,
+    "category": "Home & Kitchen",
+    "stock": 51,
+    "image_url": "https://example.com/images/airfryer.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 26,
+    "name": "Hiking Boots",
+    "description": "Waterproof hiking boots with ankle support",
+    "price": 129.99,
+    "category": "Footwear",
+    "stock": 39,
+    "image_url": "https://example.com/images/hikingboots.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 27,
+    "name": "Tablet Stand",
+    "description": "Adjustable tablet stand for desk or bed",
+    "price": 19.99,
+    "category": "Electronics",
+    "stock": 84,
+    "image_url": "https://example.com/images/tabletstand.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 28,
+    "name": "Summer Dress",
+    "description": "Floral print summer dress, lightweight fabric",
+    "price": 54.99,
+    "category": "Clothing",
+    "stock": 63,
+    "image_url": "https://example.com/images/dress.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 29,
+    "name": "Watch Strap",
+    "description": "Leather watch strap, adjustable length",
+    "price": 14.99,
+    "category": "Accessories",
+    "stock": 127,
+    "image_url": "https://example.com/images/watchstrap.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 30,
+    "name": "Dumbbell Set",
+    "description": "Adjustable dumbbell set, 5-50 lbs per dumbbell",
+    "price": 249.99,
+    "category": "Sports & Outdoors",
+    "stock": 22,
+    "image_url": "https://example.com/images/dumbbells.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 31,
+    "name": "Webcam HD",
+    "description": "1080p HD webcam with built-in microphone",
+    "price": 59.99,
+    "category": "Electronics",
+    "stock": 47,
+    "image_url": "https://example.com/images/webcam.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 32,
+    "name": "Polo Shirt",
+    "description": "Classic polo shirt, moisture-wicking fabric",
+    "price": 34.99,
+    "category": "Clothing",
+    "stock": 91,
+    "image_url": "https://example.com/images/poloshirt.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 33,
+    "name": "Belt Leather",
+    "description": "Genuine leather belt with stainless steel buckle",
+    "price": 29.99,
+    "category": "Accessories",
+    "stock": 105,
+    "image_url": "https://example.com/images/belt.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 34,
+    "name": "Blender Pro",
+    "description": "High-speed blender with 64oz pitcher",
+    "price": 139.99,
+    "category": "Home & Kitchen",
+    "stock": 33,
+    "image_url": "https://example.com/images/blender.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 35,
+    "name": "Soccer Ball",
+    "description": "Official size soccer ball with synthetic leather",
+    "price": 24.99,
+    "category": "Sports & Outdoors",
+    "stock": 79,
+    "image_url": "https://example.com/images/soccerball.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 36,
+    "name": "Keyboard Mechanical",
+    "description": "RGB mechanical keyboard with Cherry MX switches",
+    "price": 129.99,
+    "category": "Electronics",
+    "stock": 41,
+    "image_url": "https://example.com/images/keyboard.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 37,
+    "name": "Sneakers Casual",
+    "description": "Comfortable casual sneakers with memory foam insole",
+    "price": 64.99,
+    "category": "Footwear",
+    "stock": 72,
+    "image_url": "https://example.com/images/sneakers.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 38,
+    "name": "Baseball Cap",
+    "description": "Adjustable baseball cap with embroidered logo",
+    "price": 19.99,
+    "category": "Accessories",
+    "stock": 118,
+    "image_url": "https://example.com/images/baseballcap.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 39,
+    "name": "Bed Sheets Set",
+    "description": "Queen size bed sheets set, 100% cotton",
+    "price": 49.99,
+    "category": "Home & Kitchen",
+    "stock": 55,
+    "image_url": "https://example.com/images/bedsheets.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 40,
+    "name": "Yoga Block",
+    "description": "EVA foam yoga block for support and alignment",
+    "price": 9.99,
+    "category": "Sports & Outdoors",
+    "stock": 143,
+    "image_url": "https://example.com/images/yogablock.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 41,
+    "name": "Phone Case",
+    "description": "Protective phone case with shock absorption",
+    "price": 16.99,
+    "category": "Electronics",
+    "stock": 134,
+    "image_url": "https://example.com/images/phonecase.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 42,
+    "name": "Cardigan Sweater",
+    "description": "Soft cardigan sweater, perfect for layering",
+    "price": 44.99,
+    "category": "Clothing",
+    "stock": 59,
+    "image_url": "https://example.com/images/cardigan.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 43,
+    "name": "Travel Pillow",
+    "description": "Memory foam travel pillow with washable cover",
+    "price": 24.99,
+    "category": "Accessories",
+    "stock": 87,
+    "image_url": "https://example.com/images/travelpillow.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 44,
+    "name": "Cutting Board",
+    "description": "Bamboo cutting board with juice groove",
+    "price": 19.99,
+    "category": "Home & Kitchen",
+    "stock": 98,
+    "image_url": "https://example.com/images/cuttingboard.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 45,
+    "name": "Resistance Bands",
+    "description": "Set of 5 resistance bands with different resistance levels",
+    "price": 14.99,
+    "category": "Sports & Outdoors",
+    "stock": 112,
+    "image_url": "https://example.com/images/resistancebands.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 46,
+    "name": "Monitor Stand",
+    "description": "Wooden monitor stand with storage drawer",
+    "price": 54.99,
+    "category": "Electronics",
+    "stock": 46,
+    "image_url": "https://example.com/images/monitorstand.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 47,
+    "name": "Scarf Wool",
+    "description": "Warm wool scarf, perfect for winter",
+    "price": 24.99,
+    "category": "Accessories",
+    "stock": 81,
+    "image_url": "https://example.com/images/scarf.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 48,
+    "name": "Toaster 4-Slice",
+    "description": "Stainless steel 4-slice toaster with bagel setting",
+    "price": 64.99,
+    "category": "Home & Kitchen",
+    "stock": 38,
+    "image_url": "https://example.com/images/toaster.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 49,
+    "name": "Jump Rope",
+    "description": "Adjustable speed jump rope with weighted handles",
+    "price": 12.99,
+    "category": "Sports & Outdoors",
+    "stock": 126,
+    "image_url": "https://example.com/images/jumprope.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  },
+  {
+    "id": 50,
+    "name": "Desk Organizer",
+    "description": "Bamboo desk organizer with multiple compartments",
+    "price": 29.99,
+    "category": "Home & Kitchen",
+    "stock": 64,
+    "image_url": "https://example.com/images/deskorganizer.jpg",
+    "created_at": "2023-01-10T00:00:00Z"
+  }
+]
+
+
